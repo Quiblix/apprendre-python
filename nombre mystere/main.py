@@ -1,7 +1,6 @@
 import random
 
 def main():
-
     a = 1    
     nombre_aleatoire = random.randint(1, 100)
     reponse = int(input("Donne un chiffre entre 1 et 100 : "))
